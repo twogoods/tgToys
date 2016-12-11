@@ -10,6 +10,5 @@ terminal下的天气查询服务，可以根据ip自动定位城市，也可以�
 
 ## 安装 & 使用
 安装依赖:`go get github.com/twogoods/golib/gohttp`  
-手动编译`utils`,`express`,`weather`
-使用： `TgToys express <expressNum>` `TgToys.go weather -<city>`
-
+手动编译`utils`,`express`,`weather`  
+使用： `TgToys express <expressNum>` `TgToys.go weather -<city>` 
